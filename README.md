@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-- 👨‍💻 Tech Stack: React · Next.js · TypeScript · PHP Native · Tailwind · MySQL · PostgreSQL · Brevo · Lemlist · n8n
+- 👨‍💻 Tech Stack: React · Next.js · TypeScript · PHP Native · Tailwind · MySQL · PostgreSQL · n8n
 
 ---
 
