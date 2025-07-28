@@ -5,16 +5,16 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Tech Stack
 
-- 👨‍💻 Tech Stack: React · Next.js · TypeScript · PHP Native · Tailwind · MySQL · PostgreSQL · n8n
+- React · Next.js · TypeScript · Javascript ·  Tailwind · PHP Native · MySQL · PostgreSQL · n8n · LLM
 
 ---
 
-### 🛠️ Tech & Tools
+### 🛠️ All Tech & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,php,js,ts,tailwind,html,css,mysql,postgres,vscode,github,postman" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,php,mysql,postgres,prisma,vercel,docker,figma,git" />
 </p>
 
 ---
